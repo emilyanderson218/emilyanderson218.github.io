@@ -18,8 +18,8 @@ header, nav, main, footer {
 
 /* Header styles */
 header { 
-	background-color: #868CB3;
-	color: #FFFFFF;
+	background-color: #75B3CF;
+	color: #ffffff;
 	min-height: 100px;
 	margin-top: 60px;
 }
@@ -31,13 +31,13 @@ header h1 {
 
 
 /* Nav styles */
-nav { background-color: #75B3CF; }
+nav { background-color: ; }
 nav ul { 
 	display: flex;
 	justify-content: flex-end;
 }
 nav li { padding: 10px 10px; }
-nav a { color: #C7F2FF; }
+nav a { color: ; }
 nav a:hover { color: white; }
 
 
