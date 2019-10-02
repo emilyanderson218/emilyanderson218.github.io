@@ -31,13 +31,13 @@ header h1 {
 
 
 /* Nav styles */
-nav { background-color: #B0B8EB; }
+nav { background-color: #75B3CF; }
 nav ul { 
 	display: flex;
 	justify-content: flex-end;
 }
 nav li { padding: 10px 10px; }
-nav a { color: BlanchedAlmond; }
+nav a { color: #75B3CF; }
 nav a:hover { color: white; }
 
 
@@ -67,7 +67,7 @@ aside {
 
 /* Footer styles */
 footer { 
-	background-color: #000;
+	background-color: #75B3CF;
 	color: white;
 	text-align: center;
  }
