@@ -31,10 +31,11 @@ header h1 {
 
 
 /* Nav styles */
-nav { background-color: ; }
+nav { background-color: #75B3CF; }
 nav ul { 
 	display: flex;
 	justify-content: flex-end;
+	list-style-type: none;
 }
 nav li { padding: 10px 10px; }
 nav a { color: ; }
