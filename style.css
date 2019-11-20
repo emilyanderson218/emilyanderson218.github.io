@@ -1,5 +1,5 @@
 body {
-	background: #FAEBD7 url('../images/White-Brick-Texture.jpg');
+	background: #FAEBD7 url('stars.jpg');
 	color: #333;
 }
 
@@ -8,7 +8,7 @@ a {
 	color: #333;
 }
 
-a:hover { color: Tomato; }
+a:hover { color: #75B3CF; }
 
 header, nav, main, footer {
 	width: 80%;
